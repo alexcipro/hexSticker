@@ -189,6 +189,7 @@ sticker(imgurl, package="hexSticker", p_size=8, s_x=1, s_y=.75, s_width=.6,
 [<img src="https://raw.githubusercontent.com/Bioconductor/BiocStickers/master/events/CSAMA/2017/CSAMA2017.png" height="120"/>](https://github.com/Bioconductor/BiocStickers/tree/master/events/CSAMA/2017)
 [<img src="https://github.com/Bioconductor/BiocStickers/blob/master/events/CSAMA/2018/CSAMA2018.png" height="120"/>](https://github.com/Bioconductor/BiocStickers/tree/master/events/CSAMA/2018)
 [<img src="https://github.com/Bioconductor/BiocStickers/raw/master/events/EuroBioc2017/EuroBioc2017.png" height="120"/>](https://github.com/Bioconductor/BiocStickers/tree/master/events/EuroBioc2017)
+[<img src="https://github.com/uRosConf/unconfUROS2019/raw/master/uRosConf2019.png" height="120"/>](https://github.com/uRosConf/unconfUROS2019/raw/master/uRosConf2019.png)
 
 ### Stickers for fun
 
